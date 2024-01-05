@@ -25,7 +25,7 @@ docker-compose up -d
 
 5. Clonar el archivo **.env.template** y renombrar la copia a **.env**
 
-6. Llenar las variables de entorno definidas en el **.env**
+6. Llenar las variables de entorno definidas en el __.env__
 
 7. Ejecutar la aplicación en dev:
 
